@@ -1,0 +1,22 @@
+# User-specific files
+*.editorconfig
+*.user
+*.vs
+*.vscode
+
+# Package Managers
+node_modules
+npm-debug.log
+
+# Build Artifacts
+*.lock.json
+*-lock.json
+*.backup
+*.cache
+*.tgz
+.jest
+
+# Source Code
+src
+test
+tsconfig.json
